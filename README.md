@@ -13,7 +13,7 @@ DocumentGPT is a web application that allows you to chat over your research docu
 
 ## Demo Preview
   
-https://github.com/aju22/DocumentGPT/assets/72931799/d8b7d386-d379-4439-a260-9db5f8d3da2b
+
 
 ## How to Use
 
@@ -40,21 +40,12 @@ Here are some areas for further improvement in DocumentGPT:
 - **AI Alignment**: Improve the model behaviour by various techniques in prompt engineering.
 - **Tools**: Addition of more helpul tools for better model responses.
 
-## Streamlit Cloud
-
-You can try out the chatbot by visiting the deployed app on Streamlit Cloud:
-[Deployed App](https://documentgpt.streamlit.app/)
-
-*Note: Unfortunately PDF Display works fine locally, but in the deployed app only works on certain browsers like Safari, Firefox :(*
 
 
 ## Contributing
 
 Contributions to DocumentGPT are welcome! If you have any feedback, suggestions, or bug reports, please create an issue in the GitHub repository. You can also contribute to the project by submitting pull requests with your enhancements.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Acknowledgements
 

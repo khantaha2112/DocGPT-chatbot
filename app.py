@@ -92,7 +92,7 @@ def sidebar():
             "You can contribute to the project on [GitHub]() "
             "with your feedback and suggestions💡"
         )
-        st.markdown("Made by [Arjun]()")
+        st.markdown("Made by [Khan]()")
         st.markdown("---")
 
 
