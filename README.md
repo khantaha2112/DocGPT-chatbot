@@ -12,6 +12,8 @@ DocumentGPT is a web application that allows you to chat over your research docu
 - Verify sources for all generated results.
 
 ## Demo Preview
+
+https://drive.google.com/file/d/1K22Nq3Jop3CBv3rh8bJENpN1pD6xN-gq/view?usp=sharing
   
 
 
